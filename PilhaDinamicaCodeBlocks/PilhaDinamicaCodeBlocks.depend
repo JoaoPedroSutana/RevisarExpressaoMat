@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1693095846 source:/home/paulo-noe/Downloads/PilhaDinamicaCodeBlocks/PilhaDinamicaCodeBlocks/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599504246 /home/paulo-noe/Downloads/PilhaDinamicaCodeBlocks/PilhaDinamicaCodeBlocks/Pilha.h
+
+1693095864 source:/home/paulo-noe/Downloads/PilhaDinamicaCodeBlocks/PilhaDinamicaCodeBlocks/Pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1693095846 source:/home/paulo-noe/Downloads/CodeBlocks/PilhaDinamicaCodeBlocks/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1599504246 /home/paulo-noe/Downloads/CodeBlocks/PilhaDinamicaCodeBlocks/Pilha.h
+
+1693095864 source:/home/paulo-noe/Downloads/CodeBlocks/PilhaDinamicaCodeBlocks/Pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1693095864 source:c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\pilha\pilhadinamicacodeblocks\pilhadinamicacodeblocks\pilha.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1726707510 c:\users\infortronic\documents\2°periodo\algoritmos e estrutura\pilha\pilhadinamicacodeblocks\pilhadinamicacodeblocks\pilha.h
+
